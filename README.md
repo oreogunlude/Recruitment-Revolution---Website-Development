@@ -14,7 +14,7 @@ Website Link: https://recruitmentrevolution.ca/
 
 | Recruiting 2.0 |
 | :------------: |
-| ![Shopper Helper](screenshots/shopper_helper.png) |
+| ![The Recruitment revolution - Website Development]https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/Screen%20Shot%202022-04-30%20at%2010.24.55%20AM.png) |
 
 ## Website Features
 
