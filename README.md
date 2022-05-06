@@ -34,7 +34,7 @@ The home page conatins 2 call to action buttons that define Artificial Intellige
 
 | Desktop Version |
 | :------------: |
-| ![The Recruitment revolution - Website Development](https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/Screen%20Shot%202022-04-30%20at%2010.24.07%20AM.png) |
+| ![The Recruitment revolution - Website Development](https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/smartmockups_l2tw6zap.jpg) |
 
 | Mobile Version |
 | :------------: |
