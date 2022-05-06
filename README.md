@@ -27,7 +27,7 @@ I created this blurry translucent header using CSS and it contains a drop-down m
 
 | Mobile Version |
 | :------------: |
-| ![The Recruitment revolution - Website Development](https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/image00001.png) |
+| ![The Recruitment revolution - Website Development](https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/smartmockups_l2tw3fkp.jpg) |
 
 ### Home Page
 The home page conatins 2 call to action buttons that define Artificial Intelligence and offer recruiters a checklist to use when reviewing their ethical practices regarding the use of AI. I designed the home page to be used for excellent branding for my team's project by displaying our logo, slogan and used motion effects for a smooth transition into other sections on the home page. The home page is also repsonsive on  mobile, tablet and desktop versions by adpting itself and removing or adding elements depending on the screen size. 
