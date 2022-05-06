@@ -45,9 +45,9 @@ Each team member has a dedicated profile page in order to give a more intimate e
 
 | Desktop Version |
 | :------------: |
-| ![Shopper Mode](https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/image00004.png) |
+| ![Shopper Mode](https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/Screen%20Shot%202022-04-30%20at%2010.26.25%20AM.png) |
 
 | Mobile Version |
 | :------------: |
-| ![Shopper Mode](https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/Screen%20Shot%202022-04-30%20at%2010.26.25%20AM.png) |
+| ![Shopper Mode](https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/image00004.png) |
 
