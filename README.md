@@ -56,9 +56,9 @@ Team J
 
 | Member | Role | Profile |
 | :------------: | :----------: | :----------: |
-| Oreoluwa Ogunlude | SiR - Web developer | :----------: |
-| Sahil Gandham | Team Member |
-| N'Keyah Burton | Team Member  | 
-| Karabo Ketshabetswe | Team Member |
-| Yuntong Yu | Team Member |
+| Oreoluwa Ogunlude | SiR - Web developer | https://recruitmentrevolution.ca/oreoluwa-ogunlude/ |
+| Sahil Gandham | Team Member | https://recruitmentrevolution.ca/sahil-gandham/
+| N'Keyah Burton | Team Member  | https://recruitmentrevolution.ca/nkeyah-burton/ |
+| Karabo Ketshabetswe | Team Member | https://recruitmentrevolution.ca/karabo-ketshabetswe/ |
+| Yuntong Yu | Team Member | https://recruitmentrevolution.ca/yuntong-yu/ |
 | Loewe Ke | Project Partner | https://recruitmentrevolution.ca/loewe-ke/ |
