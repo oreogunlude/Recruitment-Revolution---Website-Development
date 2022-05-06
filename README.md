@@ -34,11 +34,11 @@ The home page conatins 2 call to action buttons that define Artificial Intellige
 
 | Desktop Version |
 | :------------: |
-| ![Shopper Mode](screenshots/shopper_switchmode.png) |
+| ![Shopper Mode](https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/Screen%20Shot%202022-04-30%20at%2010.24.07%20AM.png) |
 
 | Mobile Version |
 | :------------: |
-| ![Shopper Mode](screenshots/shopper_switchmode.png) |
+| ![Shopper Mode](https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/image00003.png) |
 
 ### Dedicated Profile Pages
 Each team member has a dedicated profile page in order to give a more intimate experience when reading the individuals bio.  
