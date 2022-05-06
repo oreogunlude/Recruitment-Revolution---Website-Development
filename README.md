@@ -51,3 +51,14 @@ Each team member has a dedicated profile page in order to give a more intimate e
 | :------------: |
 | ![The Recruitment revolution - Website Development](https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/smartmockups_l2tw0v2c.jpg) |
 
+### Vision-Yard Tech
+Team J
+
+| Member | Role | Profile |
+| :------------: | :----------: | :----------: |
+| Oreoluwa Ogunlude | SiR - Web developer | :----------: |
+| Sahil Gandham | Team Member |
+| N'Keyah Burton | Team Member  | 
+| Karabo Ketshabetswe | Team Member |
+| Yuntong Yu | Team Member |
+| Loewe Ke | Project Partner | https://recruitmentrevolution.ca/loewe-ke/ |
