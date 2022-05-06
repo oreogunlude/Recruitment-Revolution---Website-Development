@@ -19,7 +19,7 @@ Website Link: https://recruitmentrevolution.ca/
 ## Website Features
 
 ### Blurry Translucent Header
-I created this blurry transparent header using CSS and it contains a drop-down menu on the far left, Recruiting 2.0's logo in the form of a button that takes users to the home page located at the center and a button to view the teams report at the far right. The header is also responsive and it adpats its appearnce to mobile, tablet and desktop versions. 
+I created this blurry translucent header using CSS and it contains a drop-down menu on the far left, Recruiting 2.0's logo in the form of a button that takes users to the home page located at the center and a button to view the teams report at the far right. The header is also responsive and it adpats its appearnce to mobile, tablet and desktop versions. 
 
 | Desktop Version |
 | :------------: |
