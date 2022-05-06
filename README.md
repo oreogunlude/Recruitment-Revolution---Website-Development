@@ -23,7 +23,7 @@ I created this blurry transparent header using CSS and it contains a drop-down m
 
 | Desktop Version |
 | :------------: |
-| ![Shopper Mode](screenshots/shopper_switchmode.png) |
+| ![Shopper Mode](https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/Screen%20Shot%202022-04-30%20at%2010.24.55%20AM.png) |
 
 | Mobile Version |
 | :------------: |
