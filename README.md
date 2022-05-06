@@ -1,9 +1,8 @@
 # The-Recruitment-Revolution---Website-Development
 Recruiting 2.0 seeks to serve as a guide to the ever evolving world of Artificial Intelligence and its use in the field of recruitment
 
-A  prototype mobile app made with Figma that is a community shopping application which offers free delivery on all grocery or item orders made within a specific locations' radius. The purpose of this application is to reduce the spread of COVID-19 by promoting members of the same community to buy items for each other.
+What is AI?: Technology that allows machines to learn from experience in order to make decisions similar to the human mind.
 
-When a member offers to deliver another member's order for them we call them a `Helper`. These Helpers can deliver up to `4` community members order while doing their personal shopping, hence reducing the number of people physically grocery shopping in stores.
 
 Presentation Link: https://studio.youtube.com/video/gVSAedX6AiY/edit
 
