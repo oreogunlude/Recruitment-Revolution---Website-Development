@@ -38,7 +38,7 @@ The home page conatins 2 call to action buttons that define Artificial Intellige
 
 | Mobile Version |
 | :------------: |
-| ![The Recruitment revolution - Website Development](https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/image00003.png) |
+| ![The Recruitment revolution - Website Development](https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/smartmockups_l2tw5gbl.jpg) |
 
 ### Dedicated Profile Pages
 Each team member has a dedicated profile page in order to give a more intimate experience when reading the individuals bio.  
