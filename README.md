@@ -3,8 +3,9 @@ Recruiting 2.0 seeks to serve as a guide to the ever evolving world of Artificia
 
 What is AI?: Technology that allows machines to learn from experience in order to make decisions similar to the human mind.
 
+<a href="#" class="button big">Presentation Link: https://studio.youtube.com/video/gVSAedX6AiY/edit</a>
 
-<a href="#" class="Presentation Link: https://studio.youtube.com/video/gVSAedX6AiY/edit">Create Project</a>
+
 Presentation Link: https://studio.youtube.com/video/gVSAedX6AiY/edit
 
 Website Link: https://recruitmentrevolution.ca/
