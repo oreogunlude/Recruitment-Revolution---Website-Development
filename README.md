@@ -8,7 +8,7 @@ Our mission is educate individuals and organisations, specifically employers on 
 In this process, the existing biases may be transferred to AI systems when they develop themselves for the future.
 If AI systems were to develop the ability to feel in the future, will they generate their own biases? Therefore, it is important to train algorithms without human biases. 
 
-Presentation Link: https://studio.youtube.com/video/gVSAedX6AiY/edit
+Presentation Link: https://youtu.be/zzBbs8NnzRk
 
 Website Link: https://recruitmentrevolution.ca/
 
