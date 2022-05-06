@@ -14,7 +14,7 @@ Website Link: https://recruitmentrevolution.ca/
 
 | Recruiting 2.0 |
 | :------------: |
-| ![The Recruitment revolution - Website Development](https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/smartmockups_l2tw6zap.jpg) |
+| ![The Recruitment revolution - Website Development](https://github.com/oreogunlude/The-Recruitment-Revolution---Website-Development/blob/main/Recruitment%202.0%20Images/smartmockups_l2twanqn.jpg) |
 
 ## Website Features
 
