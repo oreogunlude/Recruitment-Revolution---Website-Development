@@ -6,7 +6,7 @@ What is AI?: Technology that allows machines to learn from experience in order t
 
 Presentation Link: https://studio.youtube.com/video/gVSAedX6AiY/edit
 
-Prototype Link: https://www.figma.com/proto/9flWFEsQhDLdDEOtvjyL6S/Shopper-Helper-iPhone-App?node-id=90%3A1984&scaling=scale-down&page-id=0%3A1&starting-point-node-id=44%3A828
+Website Link: https://recruitmentrevolution.ca/
 
 | Shopper Helper    |
 | :------------: |
