@@ -12,7 +12,6 @@ If AI systems were to develop the ability to feel in the future, will they gener
 
 Presentation Link: https://youtu.be/zzBbs8NnzRk
 
-Website Link: https://recruitmentrevolution.ca/
 
 | Recruiting 2.0 |
 | :------------: |
