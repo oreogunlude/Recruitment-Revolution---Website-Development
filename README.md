@@ -1,6 +1,8 @@
 # The Recruitment Revolution - Website Development
 Recruiting 2.0 seeks to serve as a guide to the ever-evolving world of Artificial Intelligence and its use in the field of recruitment
 
+Website Link: https://recruitmentrevolution.ca/
+
 What is AI?: Technology that allows machines to learn from experience in order to make decisions similar to the human mind.
 
 Our mission is to educate individuals and organizations, especially employers on the use of AI as a tool for recruiting and the value that ethics holds on this topic. One of the most important factors to consider for AI algorithm training is human bias, specifically regarding gender and race. As AI systems need plenty of data to train with accuracy, the datasets are chosen by humans first-hand.
